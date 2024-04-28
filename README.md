@@ -1,2 +1,2 @@
 # Digit-Masking-Function
-This JavaScript function, func4, replaces all digits in a given string with asterisks (*).
+This JavaScript function, func4, replaces all digits in a given string with asterisks (*).It splits the input string into an array of characters and iterates through each character. If a character is a digit (i.e., falls within the range '0' to '9'), it replaces it with an asterisk. The function then prints the modified string. An example usage with the string "ma2r45" is provided.
